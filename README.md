@@ -3,6 +3,6 @@ A Social Media dynamic application created using MERN Stack where user can creat
 
 The backend functionality is done using Express JS and Node JS
 
-Mongoose Db is used for storing data in the database
+MongoDb is used for storing data in the database
 
 Frontend is created using React JS
